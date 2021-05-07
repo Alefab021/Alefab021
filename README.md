@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alefab021
-- 👀 I’m interested in code, cyber security, languages, analytics.
-- 🌱 I’m currently learning cyber security and UX Design
+- 👀 I’m interested in code, cyber security, languages, space.
+- 🌱 I’m currently learning cyber security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
